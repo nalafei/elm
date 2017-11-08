@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="ok">
     <v-header :seller="seller"></v-header>
     <div class="tab border-1px">
       <div class="tab-item">
